@@ -1,4 +1,4 @@
-## LuthorCorp intern
+## CS
 
 
 - I’m currently learning Full Stack Development
@@ -7,6 +7,6 @@
 ### Learning
 <ol>
   <li>
-    Force Push
+    git push
   </li>
 </ol>
